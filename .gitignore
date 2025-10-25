@@ -1,0 +1,26 @@
+# Fichiers compilés
+*.o
+*.out
+*.exe
+main
+test
+
+# Fichiers de résultats
+results.txt
+*.log
+
+# Fichiers temporaires
+*~
+*.swp
+*.swo
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.cbp
+*.layout
+
+# Backup files
+*.bak
+*.tmp
